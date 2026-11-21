@@ -1,1 +1,5 @@
- export let userName="Ashutosh"
+// export let userName="Ashutosh"//
+module.exports={
+  userName:"Ashutosh",
+
+}
