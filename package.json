@@ -1,0 +1,24 @@
+{
+  "name": "node-2026",
+  "version": "1.0.0",
+  "description": "Node js learnng in 2026",
+  "homepage": "https://github.com/ashutosh-jung/Nodejs#readme",
+  "bugs": {
+    "url": "https://github.com/ashutosh-jung/Nodejs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashutosh-jung/Nodejs.git"
+  },
+  "license": "ISC",
+  "author": "Ashutosh Jungg",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
