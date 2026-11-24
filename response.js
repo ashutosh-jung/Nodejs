@@ -16,5 +16,6 @@ const server = http.createServer((req,res)=>{
       
     </html>`);
   res.end('Ashutosh Jung');
+  process.exit()
 })
 server.listen(4800)
